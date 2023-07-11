@@ -9,3 +9,8 @@ Homeworks of Neuroscience of Learning, Memory and cognition at Sharif University
 - HW 2 :
 	- Part I : FitzHugh-Nagumo Model
 	- Part II : Winner takes all network
+
+- HW 3 :
+	- Introduction and analysing Steinmetz dataset
+	- Theory question about MAP and ML estimations
+	- Stimulus-response power laws
