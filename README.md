@@ -14,3 +14,7 @@ Homeworks of Neuroscience of Learning, Memory and cognition at Sharif University
 	- Introduction and analysing Steinmetz dataset
 	- Theory question about MAP and ML estimations
 	- Stimulus-response power laws
+
+- HW 4 :
+	- Digging more into the Steinmetz dataset.
+	- Probability theory questions including baysian theory.
